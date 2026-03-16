@@ -1,5 +1,5 @@
 # Parking-s-Together Backend
-# Compartiendo Espacio
+# Parking-s-Together
 
 **Optimización de Movilidad Urbana y Gestión Inteligente de Estacionamientos**
 
