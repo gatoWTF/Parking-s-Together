@@ -32,15 +32,5 @@ El proyecto está construido sobre una arquitectura moderna, escalable y orienta
 
 Para comprender a fondo la lógica, arquitectura y reglas comerciales de este proyecto, revisa los siguientes documentos adjuntos en la raíz de este repositorio:
 
-1. [Contexto Técnico y Arquitectura](context.md): Detalles sobre el flujo de datos, la justificación del stack tecnológico y la estructuración de los módulos.
-2. [Product Requirements Document](prd_business.md): Reglas de negocio, modelo de monetización, alcance del producto final y métricas de éxito (KPIs).
-
----
-
-## Instalación y Configuración Local
-
-Para levantar el entorno de desarrollo de este prototipo en tu máquina local, sigue estos pasos:
-
-1. **Clonar el repositorio:**
- ```bash
- git clone [https://github.com/tu-usuario/compartiendo-espacio.git](https://github.com/tu-usuario/compartiendo-espacio.git)
+1. [Contexto Técnico y Arquitectura](docs/context.md): Detalles sobre el flujo de datos, la justificación del stack tecnológico y la estructuración de los módulos.
+2. [Product Requirements Document](docs/prd_business.md): Reglas de negocio, modelo de monetización, alcance del producto final y métricas de éxito (KPIs).
